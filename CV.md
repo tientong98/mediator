@@ -4,9 +4,7 @@ title: CV
 permalink: /CV/
 ---
 
-# <center> CURRICULUM VITAE</center>
-
-## EDUCATION AND TRAINING
+# EDUCATION AND TRAINING
 
 * 2016 – Present: Graduate Student, The University of Iowa. Advisors: Daniel S. O’Leary, Ph.D.; Jatin G. Vaidya, Ph.D.
 
@@ -17,7 +15,7 @@ permalink: /CV/
 * 2009 – 2011: Continuing education in Economics, Foreign Trade University (Vietnam)
 
 
-## PUBLICATIONS
+# PUBLICATIONS
 
 Brueggeman, L., Koomar, T., Huang, Y., Hoskins, B., **Tong, T.**, Kent, J., Bahl, E., Johnson, C. E., Powers, A., Langbehn, D., Vaidya, J., Johnson, H., & Michaelson, J. J. (2019). Ensemble Modeling of Neurocognitive Performance Using MRI-Derived Brain Structure Volumes. In K. M. Pohl, W. K. Thompson, E. Adeli, & M. G. Linguraru (Eds.), Adolescent Brain Cognitive Development Neurocognitive Prediction (Vol. 11791, pp. 124–132). Springer International Publishing. [https://doi.org/10.1007/978-3-030-31901-4_15](https://doi.org/10.1007/978-3-030-31901-4_15) 
 
@@ -31,7 +29,7 @@ Neta, M., & **Tong, T. T.** (2016). Don’t like what you see? Give it time: Lon
 
 Troup, L., Bastidas, S., Nomi, J. S., Nguyen, M. T., & **Tong, T.** (2015). Face and emotional expression processing and event-related potentials in a case study of impaired face perception. Edorium Journal of Psychology, 1(1), 9–17. [https://doi.org/10.5348/P13-2015-2-OA-2](https://doi.org/10.5348/P13-2015-2-OA-2)
 
-## POSTER PRESENTATIONS
+# POSTER PRESENTATIONS
 
 Tong, T. T., Vaidya, J. G., Kramer, J., Kuperman, S., Langbehn, D., O’Leary, D. S. Comprehensive Characterization of Individuals with a Family History of Alcohol Use Disorder. Poster presented at the annual meeting of the Cognitive Neuroscience Society, Boston, MA. 
 
@@ -54,14 +52,14 @@ Tong, T. T., Zhang, X., Freeman, J. B., & Neta, M. (2015, April). Positive Bias 
 Tong, T. T.\*, Groth, T. J.\*, Nomi, J. S., Bastidas, S., & Troup, L. J. (2013, December). Event-Related Potentials for Implicit, Explicit, and Empathic Processing of Emotional Facial Expressions. Poster presented at the annual meeting of the Front Range Neuroscience Group, Fort Collins, CO.
 &ast = Co-first authors
 
-## PROFESSIONAL TRAINING
+# PROFESSIONAL TRAINING
 
 * 2018 – 2019:	Neuroscience Writing Initiative Fellowship, University of Iowa
 
 * 2018: 	Analysis of Functional NeuroImages (AFNI) Bootcamp
 
 
-## SCHOLARSHIPS AND AWARDS
+# SCHOLARSHIPS AND AWARDS
 
 * 2019:	Post-Comprehensive Research Fellowship, University of Iowa
 
