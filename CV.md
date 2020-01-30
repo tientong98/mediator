@@ -51,7 +51,7 @@ Rosen, M. L., Tong, T. T., Enersen, A., Neta, M., & Dodd, M. D. (2015, May). Tim
 
 Tong, T. T., Zhang, X., Freeman, J. B., & Neta, M. (2015, April). Positive Bias When Resolving Valence Ambiguity in Healthy Aging. Poster presented at the annual meeting of the Society for Affective Science, Oakland, CA.
 
-Tong, T. T.&ast, Groth, T. J.&ast, Nomi, J. S., Bastidas, S., & Troup, L. J. (2013, December). Event-Related Potentials for Implicit, Explicit, and Empathic Processing of Emotional Facial Expressions. Poster presented at the annual meeting of the Front Range Neuroscience Group, Fort Collins, CO.
+Tong, T. T.\*, Groth, T. J.\*, Nomi, J. S., Bastidas, S., & Troup, L. J. (2013, December). Event-Related Potentials for Implicit, Explicit, and Empathic Processing of Emotional Facial Expressions. Poster presented at the annual meeting of the Front Range Neuroscience Group, Fort Collins, CO.
 &ast = Co-first authors
 
 ## PROFESSIONAL TRAINING
