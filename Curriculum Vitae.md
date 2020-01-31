@@ -14,7 +14,6 @@ permalink: /CV/
     
 * 2009 – 2011: Continuing education in Economics, Foreign Trade University (Vietnam)
 
-
 # PUBLICATIONS
 
 Brueggeman, L., Koomar, T., Huang, Y., Hoskins, B., **Tong, T.**, Kent, J., Bahl, E., Johnson, C. E., Powers, A., Langbehn, D., Vaidya, J., Johnson, H., & Michaelson, J. J. (2019). Ensemble Modeling of Neurocognitive Performance Using MRI-Derived Brain Structure Volumes. In K. M. Pohl, W. K. Thompson, E. Adeli, & M. G. Linguraru (Eds.), Adolescent Brain Cognitive Development Neurocognitive Prediction (Vol. 11791, pp. 124–132). Springer International Publishing. [https://doi.org/10.1007/978-3-030-31901-4_15](https://doi.org/10.1007/978-3-030-31901-4_15) 
@@ -58,7 +57,6 @@ Tong, T. T.\*, Groth, T. J.\*, Nomi, J. S., Bastidas, S., & Troup, L. J. (2013, 
 
 * 2018: 	Analysis of Functional NeuroImages (AFNI) Bootcamp
 
-
 # SCHOLARSHIPS AND AWARDS
 
 * 2019:	Post-Comprehensive Research Fellowship, University of Iowa
@@ -68,5 +66,3 @@ Tong, T. T.\*, Groth, T. J.\*, Nomi, J. S., Bastidas, S., & Troup, L. J. (2013, 
 * 2012-2014: David E. Schump Memorial Scholarship, Colorado State University
 
 * 2011-2014: Partnership Scholarship, Colorado State University
-
-
