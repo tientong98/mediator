@@ -4,6 +4,13 @@ title: Curriculum Vitae
 permalink: /CV/
 ---
 
+<p align="center"> 
+      <b>TIEN T. TONG, Ph.D. Candidate</b><br>  
+      Interdisciplinary Graduate Program in Neuroscience<br> 
+      The University of Iowa, Iowa City, IA 52242<br> 
+      Email: tien-tong@uiowa.edu
+      </p>
+
 # EDUCATION AND TRAINING
 
 * 2016 – Present: Graduate Student, The University of Iowa. Advisors: Daniel S. O’Leary, Ph.D.; Jatin G. Vaidya, Ph.D.
